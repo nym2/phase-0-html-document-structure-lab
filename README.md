@@ -29,7 +29,7 @@ open the files in Visual Studio Code.
 Let's start by adding the bare essentials of an HTML document to the provided
 `index.html` file:
 
-- A `DOCTYPE` tag, which looks like this: `<!DOCTYPE html>`
+- A `DOCTYPE` tag, which looks like this: ``
 - Opening and closing `html` tags
 - Opening and closing `head` tags nested inside the `html` tags
 - Opening and closing `body` tags nested inside the `html` tags
